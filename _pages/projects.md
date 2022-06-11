@@ -4,9 +4,8 @@ title: Projects
 permalink: /projects/
 description: 
 nav: true
-nav_order: 1
-display_categories: [work, fun]
-horizontal: false
+nav_order: 3
+display_categories: [Academia, Industry]
 ---
 
 <!-- pages/projects.md -->

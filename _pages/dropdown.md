@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Miscellaneous
 nav: true
-nav_order: 3
+nav_order: 5
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Favourite Quotes
+      permalink: /fav_quotes/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Blog
+      permalink: /blog/
 ---

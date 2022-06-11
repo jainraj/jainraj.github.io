@@ -76,9 +76,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: 2825993 # your stackoverflow id
 #kaggle_username: rajjain # Kaggle username todo
 
-# todo
-#contact_note: >
-#  You can even add a little note about which of these is the best way to reach you.
+contact_note: Feel free to reach me at my email.
 
 # todo
 #google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
@@ -90,7 +88,7 @@ stackoverflow_id: 2825993 # your stackoverflow id
 # Blog TODO!
 # -----------------------------------------------------------------------------
 
-blog_name: Raj's Ideas, Thoughts & Learnings # blog_name will be displayed in your blog page
+blog_name: My Ideas, Thoughts & Learnings # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: Random musings
 permalink: /blog/:year/:title/
@@ -159,10 +157,10 @@ keep_files:
 
 # Plug-ins
 plugins:
-#  - jekyll-archives
-#  - jekyll-diagrams
+  - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -209,8 +207,8 @@ jekyll-minifier:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Jain
+  first_name: Raj V.
 
   style: apa
   locale: en
@@ -278,7 +276,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  false   # enables categorization of projects into
+enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
