@@ -62,6 +62,7 @@ github_username: jainraj # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: TheRajVJain # your Twitter handle
 linkedin_username: TheRajVJain # your LinkedIn user name
+youtube_username: therajvjainteaching
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: TheRajVJain # your Medium username
@@ -121,6 +122,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  taughts:
+    output: true
+    permalink: /taughts/:path/
 
 #news_limit: 5 todo
 

@@ -6,7 +6,7 @@ subtitle: AI + Neuro Enthusiast <br> PhD Student @ <a href="http://www.cns.iisc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
 
 news: false  # includes a list of news items toto
 selected_papers: false # includes a list of papers marked as "selected={true}" todo
