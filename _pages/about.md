@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI + Neuro enthusiast <br> PhD Student @ <a href="http://www.cns.iisc.ac.in/sridhar/">The Cognition, Computation and Behavior Lab</a> under <a href="http://www.cns.iisc.ac.in/home/people/sridharan-devarajan/">Dr. Sridharan Devarajan</a> <br> <a href="https://www.csa.iisc.ac.in/">CSA Department</a>, <a href="https://iisc.ac.in/">IISc, Bangalore</a>  
+subtitle: AI + Neuro Enthusiast <br> PhD Student @ <a href="http://www.cns.iisc.ac.in/sridhar/">The Cognition, Computation and Behavior Lab</a> under <a href="http://www.cns.iisc.ac.in/home/people/sridharan-devarajan/">Dr. Sridharan Devarajan</a> <br> <a href="https://www.csa.iisc.ac.in/">Computer Science and Automation Department</a>, <a href="https://iisc.ac.in/">IISc, Bangalore</a>  
 
 profile:
   align: right
@@ -36,4 +36,4 @@ My current work is to understand if deep neural networks can <b>predict behavior
 statistical models. More precisely, do <b>deep recurrent neural networks (e.g., LSTMs)</b> model sequential effects better than 
 conventional statistical learning models? Additionally, whether <b>low-dimensional subject and experiment embeddings</b> can 
 capture aspects of behavior that are unique to subjects or experimental manipulations respectively? Lastly, does adding 
-<b>neural signals </b> to deep learning models better their predictive power?
+<b>neural signals </b> to deep learning models better their predictive power? 
