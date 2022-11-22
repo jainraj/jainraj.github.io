@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NPTEL - Intro to Machine Learning
-description: TA for NPTEL's Intro to ML course (NOC22-CS73) taught in Fall 2022
+description: TA for NPTEL's Intro to ML course (NOC22-CS73) (July - Oct 2022)
 clickable: true
 importance: 6
 ---

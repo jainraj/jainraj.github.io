@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Implementing CISR
-description: Course Project for E1 277 - Reinforcement Learning @ IISc
-importance: 2
+title: Implementing Curriculum Induction for Safe Reinforcement learning (CISR)
+description: Course Project for E1 277 - Reinforcement Learning @ IISc (Jan - Apr 2022)
+importance: 21
 category: Academia
 github: https://github.com/jainraj/CISR_NeurIPS20/tree/rlproject
 ---

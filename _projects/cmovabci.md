@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CMOVA BCI
-description: EEG Collection & Prediction using ML Algorithms 
-importance: 4
+description: EEG Collection & Prediction using ML Algorithms @ RVCE (Jan - Jun 2016)
+importance: 23
 category: Academia
 ---
 
