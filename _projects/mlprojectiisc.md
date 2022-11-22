@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Natural Language Inference
-description: Course Project for E0 270 - Machine Learning @ IISc 
-importance: 1
+description: Course Project for E0 270 - Machine Learning @ IISc (Jan - Apr 2022)
+importance: 20
 category: Academia
 github: https://github.com/jainraj/Machine-Learning-Course-Work
 ---

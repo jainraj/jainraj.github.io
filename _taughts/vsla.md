@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vector Space Linear Algebra
-description: Complete self-designed course on Linear Algebra using Vector Spaces!
+description: Complete self-designed course on Linear Algebra using Vector Spaces! (Sep - Oct 2022)
 clickable: true
 importance: 7
 ---

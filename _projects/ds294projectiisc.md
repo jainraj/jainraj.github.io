@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Visualisation
-description: Course Project for DS 294 - Data Analysis & Visualisation @ IISc
-importance: 3
+description: Course Project for DS 294 - Data Analysis & Visualisation @ IISc (Feb - Jun 2021)
+importance: 22
 category: Academia
 ---
 
