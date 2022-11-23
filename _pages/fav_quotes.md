@@ -6,7 +6,8 @@ nav: false
 ---
 
 <blockquote>
-    We always look at the mountains in front of us and forget the mountains behind us were just as hard to climb. — Marjorie Armstrong, Mom
+    We always look at the mountains in front of us and forget the mountains behind us were just as hard to climb. 
+        — Marjorie Armstrong, Mom
 </blockquote>
 
 <blockquote>
@@ -39,7 +40,31 @@ nav: false
 </blockquote>
 
 <blockquote>
+    The quiet statisticians have changed our world; not by discovering new facts or technical developments, but by 
+    changing the ways that we reason, experiment and form our opinions. — Ian Hacking
+</blockquote>
+
+<blockquote>
+    The test of a first-rate intelligence is the ability to hold two opposing ideas in mind at the same time and still 
+    retain the ability to function. One should, for example, be able to see that things are hopeless yet be determined 
+    to make them otherwise. — Scott Fitzgerald
+</blockquote>
+
+<blockquote>
+    There is no true interpretation of anything; interpretation is a vehicle in the service of human comprehension. 
+    The value of interpretation is in enabling others to fruitfully think about an idea. — Andreas Buja
+</blockquote>
+
+<blockquote>
+    Good things come to those who wait, but only whats left from those who hustle! — Abraham Lincoln
+</blockquote>
+
+<blockquote>
     Without strategy, execution is aimless. Without execution, strategy is useless. — Morris Chang
+</blockquote>
+
+<blockquote>
+    In God we trust, all others bring data. –  William Edwards Deming
 </blockquote>
 
 <blockquote>
@@ -48,6 +73,10 @@ nav: false
 
 <blockquote>
     Fiat Justitia Ruat Caelum — Let justice be done though the heavens fall.
+</blockquote>
+
+<blockquote>
+    Working for a true mentor is often much, much harder than working for a normal boss.
 </blockquote>
 
 <blockquote>
