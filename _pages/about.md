@@ -26,9 +26,12 @@ I am the recipient of the prestigious <a href="https://www.pmrf.in/">Prime Minis
 
 <h4> Research Interests </h4>
 
-My research interests lie at the intersection of AI and Neuroscience, in two ways. One is to build AI models which can 
-deepen our understanding of cognitive processed like decision-making and attention. The other is to use neuroscience to 
-build more robust, efficient, explainable and realistic AI models.  
+My research interests lie at the intersection of AI and Neuroscience, in two ways. 
+
+<ul>
+  <li>Build AI models which can  deepen our <b>understanding of cognitive processes</b> like decision-making and attention </li>
+  <li>Use neuroscience to <b>build more robust, efficient, explainable and realistic AI models</b></li>
+</ul>
 
 <h4> Current Research Work </h4>
 

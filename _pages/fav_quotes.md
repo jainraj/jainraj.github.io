@@ -40,6 +40,10 @@ nav: false
 </blockquote>
 
 <blockquote>
+    If you only do what you can do, you will never be more than who you are. — Master Shifu, Kung Fu Panda
+</blockquote>
+
+<blockquote>
     The quiet statisticians have changed our world; not by discovering new facts or technical developments, but by 
     changing the ways that we reason, experiment and form our opinions. — Ian Hacking
 </blockquote>

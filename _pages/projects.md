@@ -6,7 +6,7 @@ description:
 horizontal: true
 nav: true
 nav_order: 3
-display_categories: [Academia, Industry]
+display_categories: [Academia, Hackathon, Industry]
 ---
 
 <div class="projects">
