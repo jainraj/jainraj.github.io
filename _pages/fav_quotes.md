@@ -44,6 +44,10 @@ nav: false
 </blockquote>
 
 <blockquote>
+    A rising tide lifts all boats.
+</blockquote>
+
+<blockquote>
     The quiet statisticians have changed our world; not by discovering new facts or technical developments, but by 
     changing the ways that we reason, experiment and form our opinions. — Ian Hacking
 </blockquote>
