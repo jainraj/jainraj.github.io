@@ -47,6 +47,13 @@ nav: false
     A rising tide lifts all boats.
 </blockquote>
 
+
+<blockquote>
+    Watch your thoughts, for they become words. Watch your words, for they become actions. Watch your actions, for they 
+    become habits. Watch your habits, for they become your character. And watch your character, for it becomes your 
+    destiny. What we think, we become. — Margaret Thatcher, Iron Lady
+</blockquote>
+
 <blockquote>
     The quiet statisticians have changed our world; not by discovering new facts or technical developments, but by 
     changing the ways that we reason, experiment and form our opinions. — Ian Hacking
