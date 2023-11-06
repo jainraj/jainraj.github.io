@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NPTEL - Intro to Machine Learning
-description: TA for NPTEL's Intro to ML course (NOC22-CS73) (July - Oct 2022)
+description: TA for NPTEL's Intro to ML course (NOC22-CS73) (Jul - Oct 2022)
 clickable: true
 importance: 6
 ---
@@ -13,7 +13,7 @@ As part of NPTEL PMRF TA scheme, I got the opportunity to serve as a TA for the
 <a href="http://www.cse.iitm.ac.in/~ravi/nptel-courses/intro-to-machine-learning/">Introduction to Machine Learning</a> course 
 taught by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a>. As part of the TA duties, we would have 
 <b>one hour</b> sessions with the students every week <b>(total of 12 weeks)</b> in which we could either teach a new 
-concept or clarify students' doubts. I would generally ask the student in the chat forum if they wanted any specific 
+concept or clarify students' doubts. I would generally ask the students in the chat forum if they wanted any specific 
 doubts clarified a day before my session. I would either solve those questions or teach a related concept not covered by 
 the professor that week or teach a concept in more detail than covered by the professor. We were required to record the 
 lectures and upload it on YouTube so that students who could not make it to the session could watch later. 

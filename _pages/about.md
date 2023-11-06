@@ -6,7 +6,7 @@ subtitle: AI + Neuro Enthusiast <br> PhD Student @ <a href="http://www.cns.iisc.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: therajvjain.jpg
   image_circular: false  # crops the image to make it circular
 
 news: false  # includes a list of news items toto
