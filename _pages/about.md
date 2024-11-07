@@ -2,8 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI + Neuro Enthusiast <br> PhD Student @ <a href="http://www.cns.iisc.ac.in/sridhar/">The Cognition, Computation and Behavior Lab</a> under <a href="http://www.cns.iisc.ac.in/home/people/sridharan-devarajan/">Dr. Sridharan Devarajan</a> <br> <a href="https://www.csa.iisc.ac.in/">Computer Science and Automation Department</a>, <a href="https://iisc.ac.in/">IISc, Bangalore</a>  
-
+subtitle: AI + Neuro Enthusiast <br> PhD Candidate @ <a href="http://www.cns.iisc.ac.in/sridhar/">The Cognition, 
+  Computation and Behavior Lab</a> (PI - <a href="https://www.cns.iisc.ac.in/sridhar/people.html">
+  Dr. Sridharan Devarajan</a>) <br> <a href="https://www.csa.iisc.ac.in/">Computer Science and Automation 
+  Department</a>, <a href="https://iisc.ac.in/">IISc, Bangalore</a>  
 profile:
   align: right
   image: therajvjain.jpg
@@ -25,17 +27,19 @@ I am the recipient of the prestigious <a href="https://www.pmrf.in/">Prime Minis
 
 <h4> Research Interests </h4>
 
-My research interests lie at the intersection of AI and Neuroscience, in two ways. 
+Intersection of AI and Neuroscience:
 
 <ul>
   <li>Build AI models which can  deepen our <b>understanding of cognitive processes</b> like decision-making and attention </li>
   <li>Use neuroscience to <b>build more robust, efficient, explainable and realistic AI models</b></li>
 </ul>
 
-<h4> Current Research Work </h4>
+<h4> Current Research </h4>
 
-My current work is to understand if deep neural networks can <b>predict behavior</b> (choice, reaction times) better than simple 
-statistical models. More precisely, do <b>deep recurrent neural networks (e.g., LSTMs)</b> model sequential effects better than 
-conventional statistical learning models? Additionally, whether <b>low-dimensional subject and experiment embeddings</b> can 
-capture aspects of behavior that are unique to subjects or experimental manipulations respectively? Lastly, does adding 
-<b>neural signals </b> to deep learning models better their predictive power? 
+<ol>
+    <li>Can deep recurrent networks <b>predict sequential behaviour better</b> than statistical models?</li>
+    <li>Can embedding layers capture inter-participant and inter-experiment <b>variabilities</b>?</li>
+    <li>Can <b>AI explainability tools</b> be used to understand brain-behavior relationships?</li>
+    <li>Does <b>adding neural signals</b> help predict behavior better? If yes, what are the features the model is using? Can 
+        we generate new testable hypotheses?</li>
+</ol>

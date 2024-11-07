@@ -11,7 +11,7 @@ nav: false
 </blockquote>
 
 <blockquote>
-    The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+    Inspiration exists, but it has to find you working. — Pablo Picasso
 </blockquote>
 
 <blockquote>
@@ -19,11 +19,15 @@ nav: false
 </blockquote>
 
 <blockquote>
-    You can't improve what you don't measure. — Peter Drucker
+    To begin, begin. — William Wordsworth
 </blockquote>
 
 <blockquote>
-    To begin, begin. — William Wordsworth
+    A rising tide lifts all boats.
+</blockquote>
+
+<blockquote>
+    The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
 </blockquote>
 
 <blockquote>
@@ -36,17 +40,12 @@ nav: false
 </blockquote>
 
 <blockquote>
-    Inspiration exists, but it has to find you working. — Pablo Picasso
+    You can't improve what you don't measure. — Peter Drucker
 </blockquote>
 
 <blockquote>
     If you only do what you can do, you will never be more than who you are. — Master Shifu, Kung Fu Panda
 </blockquote>
-
-<blockquote>
-    A rising tide lifts all boats.
-</blockquote>
-
 
 <blockquote>
     Watch your thoughts, for they become words. Watch your words, for they become actions. Watch your actions, for they 
