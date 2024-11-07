@@ -3,7 +3,7 @@ layout: page
 title: Generative Modeling
 description: Complete self-designed course on Generative Modeling! (May - Aug 2023)
 clickable: true
-importance: 1
+importance: 2
 ---
 
 <a href="/assets/pdf/generative_modeling.pdf" target="_blank"><b>ISSS Certificate of Teaching</b></a>
