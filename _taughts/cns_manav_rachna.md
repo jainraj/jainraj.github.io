@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Increasing neuroscience literacy in undergraduate students 
+title: Neuroscience for undergraduates 
 description: Majority of undergraduate students are not aware of neuroscience as a field - what is required to 
   enter this field, what are the research avenues, what are the potential jobs, etc. Given the infancy
   of the field, there is opportunity for several full-time Einsteins and Newtons. Hence, the 
