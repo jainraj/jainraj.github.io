@@ -9,10 +9,11 @@ subtitle: AI + Neuro Enthusiast <br> PhD Candidate @ <a href="http://www.cns.iis
 profile:
   align: right
   image: therajvjain.jpg
+  image_circular: false  # crops the image to make it circular
 
 news: false  # includes a list of news items toto
 selected_papers: false # includes a list of papers marked as "selected={true}" todo
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 <h4> Hello World! </h4>
@@ -43,3 +44,7 @@ Intersection of AI and Neuroscience:
     <li>Does <b>adding neural signals</b> help predict behavior better? If yes, what are the features the model is using? Can 
         we generate new testable hypotheses?</li>
 </ol>
+
+<div class="social">
+    <div class="contact-note">{{ site.contact_note }}</div>
+</div>
