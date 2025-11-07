@@ -8,7 +8,7 @@ description: Majority of undergraduate students are not aware of neuroscience as
   to the undergraduate students across India.
   <ol>
   <li>Department of Biochemistry, University of Calcutta.
-    <a href="/assets/pdf/ucal.pdf" target="_blank">Sep 2025</a></li>
+    <a href="/assets/pdf/ucal.pdf" target="_blank">Oct 2025</a></li>
   <li>Acropolis Innovation and Incubation Hub, Acropolis Group of Institutes, Indore. 
     <a href="/assets/pdf/aiih.pdf" target="_blank">Sep 2025</a></li>
   <li>Department of Biotechnology, Manav Rachna International Institute of Research and Studies. 
