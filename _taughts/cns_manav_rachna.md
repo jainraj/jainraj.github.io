@@ -7,6 +7,12 @@ description: Majority of undergraduate students are not aware of neuroscience as
   PMRF fellows of CNS, IISc get together to give an overview of the exciting field of neuroscience (and our research) 
   to the undergraduate students across India.
   <ol>
+  <li>Department of Biochemistry, University of Calcutta.
+    <a href="/assets/pdf/ucal.pdf" target="_blank">Sep 2025</a></li>
+  <li>Acropolis Innovation and Incubation Hub, Acropolis Group of Institutes, Indore. 
+    <a href="/assets/pdf/aiih.pdf" target="_blank">Sep 2025</a></li>
+  <li>Department of Biotechnology, Manav Rachna International Institute of Research and Studies. 
+    <a href="/assets/pdf/manav_nptels.pdf" target="_blank">Sep 2025</a></li>
   <li>Department of Biotechnology, Manav Rachna International Institute of Research and Studies. 
     <a href="/assets/pdf/cns_manav_rachna2.pdf" target="_blank">Sep 2024</a></li>
   <li>School of Engineering, Amrita Vishwa Vidyapeetham. 
