@@ -25,7 +25,7 @@ PMRF Student Lecture Series scheme of ISSS</a>, which provides a platform to con
 The <a href="https://isssonline.in/wp-content/uploads/2022/08/Vector-Space-Linear-Algebra.pdf">Course Flyer</a> had the 
 schedule and the planned course content. All the lectures were held online in Google Meet which allowed anyone around the 
 world to attend. Every lecture was for <b>two hours</b>. All the lectures were recorded and uploaded in 
-<a href="https://isssonline.in/courses/course/view.php?id=40">ISSS Course Website</a>.
+ISSS Course Website.
 
 All the lectures are uploaded in the <a href="https://www.youtube.com/playlist?list=PLklrrPL2ypmarZa23GVybftSO55IjNg6B">
 Vector Space Linear Algebra Course playlist</a> of <a href="https://www.youtube.com/@therajvjainteaching">my YouTube 
